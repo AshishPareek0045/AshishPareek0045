@@ -35,7 +35,7 @@ I’m looking for a full-time Data Analyst role where I can apply my skills, lea
 
 📫 Contact Me
 📧 Email: ashishpareek0045@gmail.com
-🔗 LinkedIn: [linkedin.com/in/ashishraut08](https://www.linkedin.com/in/ashish-pareek-0608b7298/)
+🔗 LinkedIn: [[linkedin.com/in/ashishraut08](https://www.linkedin.com/in/ashish-pareek-0608b7298/)](https://www.linkedin.com/in/ashish-pareek-0608b7298/)
 
 
 
