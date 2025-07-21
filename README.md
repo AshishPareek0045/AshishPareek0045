@@ -1,41 +1,77 @@
-👋 Hi, I’m @AshishPareek0045
-🎯 Aspiring Data Analyst with a background in Industrial Automation and a passion for data storytelling. I enjoy transforming raw data into meaningful insights to drive business decisions.
+# 👋 Hi, I'm Ashish Pareek
 
-💼 Current Role:
-Engineer Trainee at Cotmac Electronics Pvt. Ltd., working with industrial systems like SCADA, WinCC, SQL, PLC, and HMI technologies.
+🎯 **Aspiring Data Analyst** | Industrial Automation to Data Analytics Transition  
+📍 Pune, India | 💻 Power BI | SQL | Excel | Python | DAX
 
-🧠 Skills & Tools
-Data Tools: Power BI, SQL, Excel, Python (Pandas, NumPy), DAX
+---
 
-Dashboarding & Visualization: Power BI Dashboards, Real-time KPIs, Shift-wise Reporting
+## 🔍 About Me
 
-Data Handling: Data Cleaning, Preprocessing, Querying, Data Modeling
+I’m a data-driven problem solver with hands-on experience in building real-world dashboards and data pipelines across:
 
-Domains: Manufacturing, E-commerce, Brewery Operations
+- 🛒 **E-commerce** (Sales, Product, and Delivery Analysis)
+- 💰 **Finance** (Loan Risk & Recovery Monitoring)
+- 🏥 **Healthcare** (Hospital Resource Utilization)
+- 🏭 **Manufacturing** (Real-time Factory Monitoring via SCADA & SQL)
 
-Soft Skills: Communication, Case Study Thinking, Business Problem Solving
+Currently working as an **Engineer Trainee at Cotmac Electronics Pvt. Ltd.**, where I’ve delivered **real-time production dashboards using SCADA + SQL + WinCC + Power BI**.
 
-📊 Projects
-👨‍💼 Company Project (Professional)
-Carlsberg Brewery Dashboarding Project
-Developed a real-time Power BI dashboard for monitoring brewery production KPIs. Integrated SQL queries and WinCC data to reduce downtime and optimize reporting across shifts.
+---
 
-🧪 Personal Projects
-Machine Production Analysis Dashboard
-Created using SQL + Power BI to visualize production KPIs like product count, energy usage, and shift-level performance.
+## 🧠 Skills & Tools
 
-Blinkit Sales Analysis (E-commerce)
-Used Excel for data cleaning, pivoting, slicers, and KPI tracking to analyze revenue and top product categories.
+- **Data Visualization:** Power BI, Dashboards, KPIs, Donut/Area Charts, DAX
+- **Data Processing:** Excel, Power Query, Python (Pandas, NumPy)
+- **Databases:** SQL (Joins, CTEs, Aggregates), SQLite, MS SQL Server
+- **Automation Tools:** WinCC, SCADA, HMI, VBScript
 
-Factory Production Monitoring Dashboard (Ongoing)
-Leveraging Python, SQL, and Power BI to build an interactive dashboard for live manufacturing data tracking.
+---
 
-🚀 Goals
-I’m looking for a full-time Data Analyst role where I can apply my skills, learn from real-world data challenges, and contribute to data-driven decision-making.
+## 📊 Featured Projects
 
-📫 Contact Me
-📧 Email: ashishpareek0045@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/ashish-pareek-0608b7298/
+### 🛒 Olist E-commerce Sales & Delivery Analytics (Power BI + Python + SQL)
+- Cleaned and merged multiple datasets from Kaggle using Python.
+- Imported data into SQL, queried KPIs (Revenue, Delays, Product Rankings).
+- Built a multi-page Power BI dashboard with slicers, DAX, and visuals.
+
+🔗 [View Project Folder](https://github.com/AshishPareek0045/Olist-Sales-Analytics)
+
+---
+
+### 💰 Loan Risk & Recovery Dashboard (Power BI + Excel + SQL)
+- Analyzed repayment trends and high-risk profiles using SQL and DAX.
+- Designed a visual dashboard to track recovery status by region & loan type.
+
+🔗 [View Project Folder](https://github.com/AshishPareek0045/Loan-Risk-Analysis)
+
+---
+
+### 🏥 Hospital Resource Utilization Dashboard (Power BI + Excel)
+- Created bed usage and department-level insights using Excel + Power BI.
+- Included slicers for real-time tracking and weekly/monthly trends.
+
+🔗 [View Project Folder](https://github.com/AshishPareek0045/Hospital-Utilization-Dashboard)
+
+---
+
+### 🏭 Factory Monitoring Dashboard (SCADA + SQL + Power BI)
+- Mapped WinCC tags to SQL data for live production KPIs.
+- Automated shift-based reporting for Carlsberg Brewery via VBScript + Power BI.
+
+🔗 (Private Project Screenshots on LinkedIn)
+
+---
+
+## 📫 Let's Connect!
+
+- ✉️ Email: ashishpareek0045@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ashish-pareek-0608b7298/)  
+- 🐙 GitHub: [AshishPareek0045](https://github.com/AshishPareek0045)
+
+---
+
+📌 *Currently seeking full-time Data Analyst roles where I can apply my skills to solve real business problems and drive insights.*  
+
 
 
 
