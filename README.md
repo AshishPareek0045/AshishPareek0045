@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ashish Pareek 👋
 
-<!--
-**AshishPareek0045/AshishPareek0045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with experience building automated reporting systems, Power BI dashboards, SQL pipelines, and analytics solutions.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL (MySQL, SQL Server)
+- Power BI (DAX, Power Query)
+- Python (Pandas, NumPy)
+- AWS (S3, Athena, Glue)
+- ETL Pipelines
+- Data Modeling
+- Business Intelligence
+
+## Key Achievements
+
+- Reduced reporting cycle from 2 days to 15 minutes
+- Reduced production downtime by 30–40%
+- Automated reporting workflows saving 10+ hours/week
+
+## Featured Projects
+
+- Hospital Analytics Dashboard
+- Loan Risk Intelligence Dashboard
+- Factory Production Monitoring Dashboard
+- InsightGen AI
