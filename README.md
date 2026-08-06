@@ -1,6 +1,6 @@
 # Hi, I'm Ashish Pareek 👋
 
-### Data Analyst | Analytics Engineer | Power BI Developer
+### Data Analyst | Power BI Developer | Analytics Engineer  
 
 I build data products that transform raw operational data into decisions, automation, and measurable business impact.
 
